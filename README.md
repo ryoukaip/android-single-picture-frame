@@ -1,4 +1,4 @@
-LICENCE: MIT (basically you can do whatever)
+LICENCE: MIT (basically you can do whatever, but with credits)
 
 Download APK here: [https://github.com/ryoukaip/android-single-picture-frame/releases](https://github.com/ryoukaip/android-single-picture-frame/releases)
 
